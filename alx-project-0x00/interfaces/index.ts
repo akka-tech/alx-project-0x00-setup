@@ -1,1 +1,3 @@
-const valeur=2
+export interface PillProps {
+  title: string
+}
